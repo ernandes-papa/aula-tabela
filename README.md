@@ -1,8 +1,9 @@
 # Projeto de Tabelas
 
 Um projeto de teste de tabelas simples com um arquivo README 🤖
+[<img src="animacao.gif" alt="gif da tela inicial do projeto aula tabela">]
 
-[<img src="./animacao.gif" alt="gif da tela inicial do projeto aula tabela"]
+
 
 ## Tecnologias utilizadas : 
 
